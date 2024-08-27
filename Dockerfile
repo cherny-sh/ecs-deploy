@@ -1,4 +1,4 @@
-FROM fabfuel/ecs-deploy:1.11.3
+FROM fabfuel/ecs-deploy:1.15.0
 
 LABEL author="Donald Piret <@donaldpiret>"
 
